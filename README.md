@@ -1,5 +1,5 @@
 # FS25_AutoDrive_Routes (English)
-English routes for FS25 AutoDrive mod.
+English routes for [FS25 AutoDrive](https://github.com/Stephan-S/FS25_AutoDrive) mod.
 
 ## [Riverbend Springs](FS25_RiverbendSprings_AutoDrive_config.xml)
 
