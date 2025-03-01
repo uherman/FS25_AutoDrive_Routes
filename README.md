@@ -8,4 +8,4 @@ Translated with ChatGPT so might be some wonky names but most seems to be correc
 
 
 # How to install
-To use simply copy the desired config file to the savegame folder (e.g. savegame1) and rename it to Autodrive_config.xml. If the file already exists in the folder rename the original first (e.g. orig_Autodrive_config.xml) that way you can roll back if you want to.
+To use simply copy the desired config file to the savegame folder (e.g. savegame1) and rename it to `Autodrive_config.xml`. If the file already exists in the folder rename the original first (e.g. orig_Autodrive_config.xml) that way you can roll back if you want to.
