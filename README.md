@@ -9,3 +9,8 @@ Translated with ChatGPT so might be some wonky names but most seems to be correc
 
 # How to install
 To use simply copy the desired config file to the savegame folder (e.g. savegame1) and rename it to `Autodrive_config.xml`. If the file already exists in the folder rename the original first (e.g. orig_Autodrive_config.xml) that way you can roll back if you want to.
+
+
+# Contribute
+
+If you want to add more routes you are welcome to make a pull request or submit an issue with a link to an existing route. Can translate the routes if needed.
